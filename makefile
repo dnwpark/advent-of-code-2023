@@ -17,6 +17,7 @@ all:
 	cd day_08b; make all;
 	cd day_09a; make all;
 	cd day_09b; make all;
+	cd day_10a; make all;
 
 clean:
 	cd day_01a; make clean;
@@ -37,3 +38,4 @@ clean:
 	cd day_08b; make clean;
 	cd day_09a; make clean;
 	cd day_09b; make clean;
+	cd day_10a; make clean;
