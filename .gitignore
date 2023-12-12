@@ -1,0 +1,15 @@
+# Prerequisites
+
+*.d
+
+# Compiled objects
+
+*.o
+
+# Static libraries
+
+*.a
+
+# Executables
+
+*.exe

@@ -1,0 +1,39 @@
+all:
+	cd day_01a; make all;
+	cd day_01b; make all;
+	cd day_02a; make all;
+	cd day_02b; make all;
+	cd day_03a; make all;
+	cd day_03b; make all;
+	cd day_04a; make all;
+	cd day_04b; make all;
+	cd day_05a; make all;
+	cd day_05b; make all;
+	cd day_06a; make all;
+	cd day_06b; make all;
+	cd day_07a; make all;
+	cd day_07b; make all;
+	cd day_08a; make all;
+	cd day_08b; make all;
+	cd day_09a; make all;
+	cd day_09b; make all;
+
+clean:
+	cd day_01a; make clean;
+	cd day_01b; make clean;
+	cd day_02a; make clean;
+	cd day_02b; make clean;
+	cd day_03a; make clean;
+	cd day_03b; make clean;
+	cd day_04a; make clean;
+	cd day_04b; make clean;
+	cd day_05a; make clean;
+	cd day_05b; make clean;
+	cd day_06a; make clean;
+	cd day_06b; make clean;
+	cd day_07a; make clean;
+	cd day_07b; make clean;
+	cd day_08a; make clean;
+	cd day_08b; make clean;
+	cd day_09a; make clean;
+	cd day_09b; make clean;
