@@ -25,3 +25,7 @@ The increase in complexity between part 1 and 2 was unexpected. Perhaps, there i
 Part 2 is not a full solution, but given the input one was not required.
 
 A full solution would require a system to combine multiple looping paths to determine when their terminal nodes overlap.
+
+# Day 11
+
+Part 2 is a one line change :D
